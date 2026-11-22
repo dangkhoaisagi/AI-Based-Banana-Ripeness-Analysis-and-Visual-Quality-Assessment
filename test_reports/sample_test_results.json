@@ -1,0 +1,189 @@
+{
+  "total_samples": 18,
+  "ripeness_correct": 9,
+  "ripeness_total": 9,
+  "quality_correct": 9,
+  "quality_total": 9,
+  "rows": [
+    {
+      "file": "chat_luong_quy_doi/dom/dom_01.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "dom",
+      "ripeness_pred": "chin",
+      "ripeness_score": 50.4,
+      "quality_pred": "dom",
+      "quality_score": 99.3,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/dom/dom_02.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "dom",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 74.5,
+      "quality_pred": "dom",
+      "quality_score": 98.0,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/dom/dom_03.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "dom",
+      "ripeness_pred": "chin",
+      "ripeness_score": 99.8,
+      "quality_pred": "dom",
+      "quality_score": 97.8,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/thoi/thoi_01.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "thoi",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "thoi",
+      "quality_score": 100.0,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/thoi/thoi_02.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "thoi",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 98.8,
+      "quality_pred": "thoi",
+      "quality_score": 99.9,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/thoi/thoi_03.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "thoi",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "thoi",
+      "quality_score": 89.5,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/tot/tot_01.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "tot",
+      "ripeness_pred": "chin",
+      "ripeness_score": 92.4,
+      "quality_pred": "tot",
+      "quality_score": 100.0,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/tot/tot_02.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "tot",
+      "ripeness_pred": "chin",
+      "ripeness_score": 98.5,
+      "quality_pred": "tot",
+      "quality_score": 100.0,
+      "match": true
+    },
+    {
+      "file": "chat_luong_quy_doi/tot/tot_03.png",
+      "task": "chat_luong_quy_doi",
+      "ref_label": "tot",
+      "ripeness_pred": "chin",
+      "ripeness_score": 99.3,
+      "quality_pred": "tot",
+      "quality_score": 100.0,
+      "match": true
+    },
+    {
+      "file": "do_chin/chin/chin_01.jpg",
+      "task": "do_chin",
+      "ref_label": "chin",
+      "ripeness_pred": "chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 97.7,
+      "match": true
+    },
+    {
+      "file": "do_chin/chin/chin_02.jpg",
+      "task": "do_chin",
+      "ref_label": "chin",
+      "ripeness_pred": "chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 90.8,
+      "match": true
+    },
+    {
+      "file": "do_chin/chin/chin_03.jpg",
+      "task": "do_chin",
+      "ref_label": "chin",
+      "ripeness_pred": "chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 97.4,
+      "match": true
+    },
+    {
+      "file": "do_chin/qua_chin/qua_chin_01.jpg",
+      "task": "do_chin",
+      "ref_label": "qua_chin",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "dom",
+      "quality_score": 100.0,
+      "match": true
+    },
+    {
+      "file": "do_chin/qua_chin/qua_chin_02.jpg",
+      "task": "do_chin",
+      "ref_label": "qua_chin",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "dom",
+      "quality_score": 99.0,
+      "match": true
+    },
+    {
+      "file": "do_chin/qua_chin/qua_chin_03.jpg",
+      "task": "do_chin",
+      "ref_label": "qua_chin",
+      "ripeness_pred": "qua_chin",
+      "ripeness_score": 100.0,
+      "quality_pred": "dom",
+      "quality_score": 99.8,
+      "match": true
+    },
+    {
+      "file": "do_chin/xanh/xanh_01.jpg",
+      "task": "do_chin",
+      "ref_label": "xanh",
+      "ripeness_pred": "xanh",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 96.9,
+      "match": true
+    },
+    {
+      "file": "do_chin/xanh/xanh_02.jpg",
+      "task": "do_chin",
+      "ref_label": "xanh",
+      "ripeness_pred": "xanh",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 99.8,
+      "match": true
+    },
+    {
+      "file": "do_chin/xanh/xanh_03.jpg",
+      "task": "do_chin",
+      "ref_label": "xanh",
+      "ripeness_pred": "xanh",
+      "ripeness_score": 100.0,
+      "quality_pred": "tot",
+      "quality_score": 95.4,
+      "match": true
+    }
+  ]
+}
