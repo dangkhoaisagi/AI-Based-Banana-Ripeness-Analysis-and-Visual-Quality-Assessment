@@ -4,12 +4,6 @@
 
 Repository: https://github.com/dangkhoaisagi/AI-Based-Banana-Ripeness-Analysis-and-Visual-Quality-Assessment.git
 
-## Deploy
-
-- Frontend được build tự động lên GitHub Pages khi push lên nhánh `main`.
-- Backend được deploy bằng Blueprint `render.yaml` trên Render.
-- Sau khi Render tạo xong URL backend, thêm GitHub Repository Secret `VITE_API_BASE` với giá trị `https://ten-service.onrender.com/api`, rồi chạy lại workflow **Deploy frontend to GitHub Pages**.
-
 ## Chức năng
 
 - Tải ảnh hoặc kéo thả JPG, JPEG, PNG và WebP, tối đa 10 MB.
