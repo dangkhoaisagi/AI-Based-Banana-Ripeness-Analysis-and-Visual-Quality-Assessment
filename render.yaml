@@ -13,3 +13,5 @@ services:
         value: tensorflow
       - key: TF_CPP_MIN_LOG_LEVEL
         value: "2"
+      - key: FRONTEND_ORIGINS
+        value: "https://dangkhoaisagi.github.io"
